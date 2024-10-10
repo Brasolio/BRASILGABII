@@ -113,3 +113,11 @@ footer{
     color:var(--cor-verso-cartao);
     font-weight: 700;
 }
+
+.cartao.active .cartao-conteudo{
+    transform: rotateY(180deg);
+}
+
+.cartao-resposta{
+    transform: rotateY(180deg);
+}
