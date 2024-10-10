@@ -60,12 +60,12 @@ footer{
 }
 
 .cartao-conteudo p {
-    color: var(--text-color: #f0f8ff);
+    color: var(--text-color:);
     font-weight: 500;
 }
 
 .cartao-resposta p {
-    color: var(--text-color: #f0f8ff);
+    color: var(--text-color:);
     font-weight: 700;
 }
 
