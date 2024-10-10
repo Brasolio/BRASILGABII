@@ -34,14 +34,14 @@ footer{
     flex-basis: calc(33% - 6rem);
 }
 
-.conteudo-cartao {
+.cartao-conteudo {
     background-color: var(--cor-frente-cartao);
     text-align: center;
     height:100% ;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
 }
-.counteudo-cartao h3{
+.cartao-conteudo h3{
     color: var(--cor-text);
     border: 1px solid var(--cor-text);
     text-align: left;
@@ -53,13 +53,13 @@ footer{
     backface-visibility: hidden;
 }
 
-.conteudo-cartao p {
+.cartao-conteudo p {
     padding: 2rem;
     margin-top: 4rem;
     font-size: 1.4vw;
 }
 
-.conteudo-cartao p {
+.cartao-conteudo p {
     color: var(--text-color);
     font-weight: 500;
 }
