@@ -61,7 +61,7 @@ footer{
 
 .cartao-conteudo p {
     color: var(--text-color);
-    font: weight #fcfeff;
+    font: weight;
 }
 
 .cartao-resposta p {
