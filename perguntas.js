@@ -1,4 +1,4 @@
-criaCartao(
+criarCartao(
     'Matemática',
     'Qual número vem depois do nove?',
      'Dez'
