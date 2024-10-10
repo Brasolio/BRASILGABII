@@ -60,7 +60,7 @@ footer{
 }
 
 .cartao-conteudo p {
-    color: var(--text-color:aliceblue);
+    color: var(--text-color: #f0f8ff);
     font-weight: 500;
 }
 
