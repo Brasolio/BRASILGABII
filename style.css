@@ -69,7 +69,7 @@ footer{
     font-weight: 700;
 }
 
-.cartao.active .conteudo-cartao{
+.cartao.active .cartao-conteudo{
     transform: rotateY(180deg);
 }
 
