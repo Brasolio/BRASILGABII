@@ -60,13 +60,13 @@ footer{
 }
 
 .cartao-conteudo p {
-    color: var(--text-color:);
-    font-weight: 500;
+    color: var(--text-color);
+    font: weight #f0f8ff;;
 }
 
 .cartao-resposta p {
-    color: var(--text-color:);
-    font-weight: 700;
+    color: var(--text-color);
+    font: weight #f0f8ff;
 }
 
 .cartao.active .cartao-conteudo{
