@@ -2,7 +2,7 @@
     --fundo: #6283b6;
     --cor-text: #5e6c77;
     --cor-frente-cartao: #f1acac;
-    --cor-verso-cartao: #142404;
+    --cor-verso-cartao: #17220c;
 }
 
 body{
@@ -60,7 +60,7 @@ footer{
 }
 
 .cartao-conteudo p {
-    color: var(--text-color);
+    color: var(--text-color:aliceblue);
     font-weight: 500;
 }
 
