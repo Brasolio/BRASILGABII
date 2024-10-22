@@ -23,6 +23,6 @@
     <footer>
         <p>Desenvolvido pelos alunos: Gabriella 15 e Miguel Brasil 31</p>
     </footer>
-    <script src="app.js"></script>
+    <script src="projeto2.js"></script>
     <script src="perguntas.js"></script>
 </body>
